@@ -1,1 +1,48 @@
-Hallöchen
+<?xml version="1.0" encoding="utf-8"?>
+<kundendaten>
+    
+<kundenfirma id=1>
+    
+    <firmenname>Apple</firmenname>
+    <firmenadresse>
+        
+        <land>Österreich</land>
+        <ort>Wien</ort>
+        <plz>1160</plz>
+        <straße>Ottakringer Straße 1</straße>
+        
+    </firmenadresse>
+    
+    <ansprechperson> 
+        
+    <anrede>Herr</anrede>
+    <alter>23</alter>
+    <nachname>Ceylan</nachname>
+    <vorname>Muhammet</vorname>
+        
+    </ansprechperson>
+    
+</kundenfirma>
+    
+<kundenfirma id=2>
+    
+    <firmenname>Microsoft</firmenname>
+    <firmenadresse>
+        
+        <land>Österreich</land>
+        <ort>Wien</ort>
+        <plz>1170</plz>
+        <straße>Andere Straße 1</straße>
+        
+    </firmenadresse>
+    
+    <ansprechperson> 
+        
+    <anrede>Herr</anrede>
+    <alter>56</alter>
+    <nachname>Lankton</nachname>
+    <vorname>Peter</vorname>
+        
+    </ansprechperson>
+    
+</kundenfirma>
