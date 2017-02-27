@@ -88,3 +88,23 @@
     </ansprechperson>
     
 </kundenfirma>
+    
+<bestellung id=1>
+        
+	<bestellungdatum>30-01-2017</bestellungdatum>
+	<verkaufspreis>899</verkaufspreis>
+</bestellung>
+    
+<bestellung id ="02">
+	
+	<bestellungdatum>04-02-2017</bestellungdatum>
+	<verkaufspreis>1299</verkaufspreis>
+    
+</bestellung>
+    
+<bestellung id ="03">
+	
+	<Bestellungdatum>07-02-2012</Bestellungdatum>
+	<Verkaufspreis>399</Verkaufspreis>
+    
+</bestellung>
