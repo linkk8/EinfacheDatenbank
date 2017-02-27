@@ -104,7 +104,9 @@
     
 <bestellung id ="3">
 	
-	<Bestellungdatum>07-02-2012</Bestellungdatum>
-	<Verkaufspreis>399</Verkaufspreis>
+	<bestellungdatum>07-02-2012</bestellungdatum>
+	<verkaufspreis>399</verkaufspreis>
     
 </bestellung>
+    
+</kundendaten>
