@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <kundendaten>
     
-<kundenfirma id=1>
+<kundenfirma id="1">
     
     <firmenname>Apple</firmenname>
     <firmenadresse>
@@ -22,9 +22,18 @@
         
     </ansprechperson>
     
+    <ansprechperson> 
+        
+    <anrede>Herr</anrede>
+    <alter>45</alter>
+    <nachname>Ceylan</nachname>
+    <vorname>Barbarossa</vorname>
+        
+    </ansprechperson>
+    
 </kundenfirma>
     
-<kundenfirma id=2>
+<kundenfirma id="2">
     
     <firmenname>Microsoft</firmenname>
     <firmenadresse>
@@ -43,6 +52,39 @@
     <nachname>Lankton</nachname>
     <vorname>Peter</vorname>
         
+    </ansprechperson>
+    
+</kundenfirma>
+
+    <kundenfirma id="3">
+    
+    <firmenname>Nintendo</firmenname>
+    <firmenadresse>
+        
+        <land>Österreich</land>
+        <ort>Wien</ort>
+        <plz>1180</plz>
+        <straße>Diese Straße 1</straße>
+        
+    </firmenadresse>
+    
+    <ansprechperson> 
+        
+    <anrede>Herr</anrede>
+    <alter>23</alter>
+    <nachname>Mitsubishi</nachname>
+    <vorname>Honda</vorname>
+    
+    
+    </ansprechperson>
+    <ansprechperson> 
+        
+    <anrede>Frau</anrede>
+    <alter>53</alter>
+    <nachname>Sushi</nachname>
+    <vorname>Satoshi</vorname>
+    
+    
     </ansprechperson>
     
 </kundenfirma>
